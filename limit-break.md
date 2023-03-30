@@ -1,7 +1,7 @@
 # Limit Break Magic
-Each player has 2 smaller decks and once the first deck runs out of cards they can cast cards from the second deck regardless of mana color.
+Instead of a single deck, each player has 2 half sized decks. If a player's first deck runs out of cards they can cast cards from their second deck regardless of mana color.
 
-Only 3 booster packs per player are needed for sealed play.
+**Only 3 booster packs per player** are needed for sealed play.
 
 ## Rules
 ### Deck construction
